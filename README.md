@@ -1,5 +1,5 @@
 # CCAA
-Continuous-state cellular automata algorithm for global optimization
+Continuous-state cellular automata algorithm for global optimization in Matlab
 
 Developed in MATLAB R2015a(7.08)
 
